@@ -1,0 +1,14 @@
+body{
+    background: url(./images/hd-wallpaper-ga24239985_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.btn{
+    background-color:white;
+    width: 50%;
+    color: black;
+}
